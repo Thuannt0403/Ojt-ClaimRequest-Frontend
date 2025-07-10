@@ -1,0 +1,22 @@
+[
+  {
+    "quote": "Submit and manage overtime claims efficiently with automated tracking, draft saving, and real-time approval updates.",
+    "name": "Claimer",
+    "title": "Overtime Claim Submission"
+  },
+  {
+    "quote": "Review and validate project team claims with built-in policy compliance checks and streamlined approval workflows.",
+    "name": "Approver",
+    "title": "Claim Approval Workflow"
+  },
+  {
+    "quote": "Process approved claims with financial tracking, automated settlement marking, and batch processing for efficiency.",
+    "name": "Finance",
+    "title": "Finance Processing & Settlement"
+  },
+  {
+    "quote": "Manage system users, oversee project data, and enforce claim policies with role-based access control and analytics.",
+    "name": "Administrator",
+    "title": "System Administration & Management"
+  }
+]

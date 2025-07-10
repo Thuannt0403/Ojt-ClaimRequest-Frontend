@@ -1,0 +1,26 @@
+[
+  {
+    "imageUrl": "https://res.cloudinary.com/crs2025/image/upload/v1743245021/ngo_viet_thanh_dien_20250329174339.jpg",
+    "title": "Nguyễn Anh Quân",
+    "description": "Trời đánh tránh giấc ngủ.",
+    "githubUrl": "https://github.com/BlueBerryD42"
+  },
+  {
+    "imageUrl": "https://res.cloudinary.com/crs2025/image/upload/v1743160841/nguyen_van_duy_khiem_20250328182038.jpg",
+    "title": "Nguyễn Văn Duy Khiêm",
+    "description": "Sống để solve merge conflicts.",
+    "githubUrl": "https://github.com/the-khiem7"
+  },
+  {
+    "imageUrl": "https://via.placeholder.com/400x600?text=Clara",
+    "title": "Clara Lee",
+    "description": "Project Manager overseeing the Claim Request System deployment at F-Town 1.",
+    "githubUrl": "https://github.com/claralee"
+  },
+  {
+    "imageUrl": "https://via.placeholder.com/400x600?text=David",
+    "title": "David Kim",
+    "description": "UI/UX Specialist enhancing the visual appeal of FPT Software projects.",
+    "githubUrl": "https://github.com/davidkimux"
+  }
+]
